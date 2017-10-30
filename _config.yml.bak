@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "email:"
    黄小娇是谁？
 		-- 一个刚刚剪了短发的菇凉~
 
-email: 879819875@qq.com
+email: a-mail@mail.mail
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
